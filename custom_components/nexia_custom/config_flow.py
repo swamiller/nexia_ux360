@@ -1,4 +1,4 @@
-"""Config flow for Nexia Custom integration."""
+"""Config flow for Nexia integration."""
 import logging
 
 from nexia.home import NexiaHome

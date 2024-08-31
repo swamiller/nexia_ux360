@@ -5,7 +5,7 @@
   "codeowners": ["@swamiller", "@davidhewing"],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "github.com/swamiller/nexia_ux360",
+  "documentation": "https://github.com/swamiller/nexia_ux360",
   "iot_class": "cloud_polling",
   "issue_tracker": "https://github.com/swamiller/nexia_ux360/issues",
   "requirements": ["aiohttp>=3.8.0", "orjson>=3.7.2"],

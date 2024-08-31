@@ -17,6 +17,7 @@ TRANE_IDENTIFIER = "com.tranetechnologies.trane"
 MOBILE_URL_TEMPLATE = "{}/mobile"
 
 DEFAULT_DEVICE_NAME = "Home Automation"
+DOMAIN = "nexia"
 
 PUT_UPDATE_DELAY = 0.5
 

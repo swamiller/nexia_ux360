@@ -1,13 +1,11 @@
 {
   "domain": "nexia",
   "name": "Nexia Custom",
-  "after_dependencies": [],
-  "codeowners": ["@swamiller", "@davidhewing"],
+  "codeowners": ["@swamiller", "@davidhewing", "@bdraco"],
   "config_flow": true,
-  "dependencies": [],
   "documentation": "https://github.com/swamiller/nexia_ux360",
   "iot_class": "cloud_polling",
   "issue_tracker": "https://github.com/swamiller/nexia_ux360/issues",
-  "requirements": ["aiohttp>=3.8.0", "orjson>=3.7.2"],
+  "requirements": ["aiohttp>=3.8.0", "orjson>=3.7.2", "nexia>=0.8.2"],
   "version": "2.0.8"
 }

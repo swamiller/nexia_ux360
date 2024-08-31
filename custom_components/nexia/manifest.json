@@ -1,5 +1,5 @@
 {
-  "domain": "nexia_custom",
+  "domain": "nexia",
   "name": "Nexia Custom",
   "after_dependencies": [],
   "codeowners": ["@swamiller", "@davidhewing"],

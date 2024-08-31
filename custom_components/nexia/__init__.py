@@ -1,1 +1,1 @@
-"""Top-level package for Nexia Custom."""
+"""Top-level package for Nexia."""

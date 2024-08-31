@@ -3,7 +3,7 @@
   "name": "Nexia Custom",
   "after_dependencies": [],
   "codeowners": ["@swamiller", "@davidhewing"],
-  "config_flow": true,
+  "config_flow": false,
   "dependencies": [],
   "documentation": "https://github.com/swamiller/nexia_ux360",
   "iot_class": "cloud_polling",

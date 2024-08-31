@@ -1,4 +1,4 @@
-"""Top-level package for Nexia."""
+"""Top-level package for Nexia Custom."""
 from __future__ import annotations
 
 __version__ = "0.1.0"
@@ -17,7 +17,7 @@ TRANE_IDENTIFIER = "com.tranetechnologies.trane"
 MOBILE_URL_TEMPLATE = "{}/mobile"
 
 DEFAULT_DEVICE_NAME = "Home Automation"
-DOMAIN = "nexia"
+# DOMAIN = "nexia"
 
 PUT_UPDATE_DELAY = 0.5
 
